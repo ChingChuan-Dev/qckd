@@ -125,7 +125,6 @@ public class Qckd extends JavaPlugin implements Listener, CommandExecutor, TabCo
             return;
         }
 
-        printReport(sender);
 
         saveToExcel(sender);
     }
