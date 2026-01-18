@@ -31,4 +31,5 @@
 - `qckd.admin` - 管理员权限（控制统计开关和重载配置）
 ## 许可协议
 
-本插件采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议发布。
+本插件采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans/) 协议发布。
+您可以自由转载和分享，但必须保留署名，且不得用于商业目的或分发修改后的版本。
