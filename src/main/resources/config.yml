@@ -1,0 +1,12 @@
+enable-plugin: true
+
+messages:
+  prefix: "&7[&bQCKD&7] "
+  no-permission: "&c你没有权限执行此指令。"
+  reload-success: "&a配置文件已重载！"
+  plugin-disabled: "&c插件目前处于关闭状态 (查看 config.yml)。"
+  stats-started: "&aKD 统计已开始！所有击杀与死亡将被记录。"
+  stats-stopped: "&eKD 统计已结束！正在生成报告..."
+  stats-already-running: "&c统计已经在进行中！"
+  stats-not-running: "&c当前没有正在进行的统计。"
+  help-header: "&e------- &bQCKD 帮助 &e-------"
