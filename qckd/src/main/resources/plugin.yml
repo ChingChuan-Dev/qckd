@@ -1,0 +1,22 @@
+name: QCKD
+version: 1.1
+# 这一行非常重要，必须与代码里的包名和类名一致
+main: qckd.qckd.Qckd
+api-version: 1.21
+authors: [YourName]
+description: A simple KD statistics plugin.
+
+commands:
+  qckd:
+    description: 主指令
+    usage: /qckd help
+    permission: qckd.use
+    aliases: [kd]
+
+permissions:
+  qckd.use:
+    description: 允许使用基础指令
+    default: true
+  qckd.admin:
+    description: 允许控制统计开始/停止和重载
+    default: op
